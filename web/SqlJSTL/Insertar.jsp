@@ -72,7 +72,7 @@
                     </c:if>
                     </form>
                 </table>
-                    
+                <hr/>    
                 <table align="center" border="2" bgcolor="#F9F9F9">
                     <sql:setDataSource driver="oracle.jdbc.driver.OracleDriver" 
                         url="jdbc:oracle:thin:@localhost:1521:XE"
