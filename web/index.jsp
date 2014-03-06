@@ -5,7 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@ taglib prefix="c"   uri="http://java.sun.com/jstl/core_rt" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jstl/core_rt"%>
 <c:out value="<b>Hola mundo</b>"/><br/>
 <c:out value="<b>Hola mundo</b>" escapeXml="true"/><br/>
 <c:out value="<b>Hola mundo</b>" escapeXml="false"/><br/>
